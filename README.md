@@ -1,6 +1,4 @@
-Claro! Aqui está uma sugestão de descrição para o início de um arquivo `README.md` de um projeto de e-commerce usando a stack **MERN** (MongoDB, Express, React, Node.js) com **TypeScript**:
 
----
 
 # 🛒 E-commerce MERN com TypeScript
 
@@ -38,10 +36,4 @@ Este é um projeto completo de **E-commerce** desenvolvido com a stack **MERN** 
 /server     # Backend (Node + Express + TS)
 ```
 
-## 🚀 Como executar
 
-<Instruções de instalação e execução podem ser adicionadas aqui>
-
----
-
-Se quiser, posso também gerar o restante do `README.md` com instruções de instalação, ambiente, comandos, ou qualquer outra seção específica. É só pedir.
